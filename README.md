@@ -10,7 +10,7 @@
 - **🔁** Always exploring new tools and frameworks to level up my skills.  
 
 ## 🧰 Tech Stack & Tools  
-- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript 
 - **Frameworks:** React.js, Next.js
 - **State Management:** Redux, Redux Toolkit
 - **Styling:** Tailwind CSS, BootStrap, Material-UI , Shadcn
