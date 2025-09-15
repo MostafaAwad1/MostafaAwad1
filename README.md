@@ -13,10 +13,10 @@
 - **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript  
 - **Frameworks:** React.js, Next.js
 - **State Management:** Redux, Redux Toolkit
-- **Styling:** Tailwind CSS, BootStrap, Material-UI
+- **Styling:** Tailwind CSS, BootStrap, Material-UI , Shadcn
 - **3D / Animation:** Framer Motion  
 - **Version Control:** Git & GitHub  
-- **Deployment:** Vercel  
+- **Deployment:** Vercel , Netlify  
 
 
 ## 🌐 Let's Connect!  
